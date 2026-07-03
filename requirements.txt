@@ -1,6 +1,7 @@
-streamlit
 pandas
 numpy
-tensorflow
 requests
 plotly
+tensorflow==2.21.0
+keras==3.13.2
+streamlit
